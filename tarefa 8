@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <Meta http.equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"
+    <title>tarefa descodificadas</title>
+</head>
+  
+<body>
+
+        <div class="redcolor">
+            <div class="redcolor1"></div>
+            <div class="redcolor"></div>
+            <div class="redcolor"></div>
+            <div class="redcolor"></div>
+            <div class="redcolor1"></div>
+        </div>
+        <div class="onecolor">
+            <div class="redcolor"></div>
+            <div class="bluecolor"></div>
+            <div class="greencolor"></div>
+            <div class="yellowcolor"></div>
+            <div class="redcolor"></div>
+        </div>
+        <div class="twocolor">
+            <div class="redcolor"></div>
+            <div class="bluecolor"></div>
+            <div class="greencolor"></div>
+            <div class="yellowcolor"></div>
+            <div class="redcolor"></div>
+        </div>
+        <div class="threecolor">
+            <div class="redcolor"></div>
+            <div class="bluecolor"></div>
+            <div class="greencolor"></div>
+            <div class="yellowcolor"></div>
+            <div class="redcolor"></div>
+        </div>
+        <div class="fourcolor">
+            <div class="redcolor"></div>
+            <div class="bluecolor"></div>
+            <div class="greencolor"></div>
+            <div class="yellowcolor"></div>
+            <div class="redcolor"></div>
+        </div>
+
+        <div class="redcolor">
+            <div class="redcolor1"></div>
+            <div class="redcolor"></div>
+            <div class="redcolor"></div>
+            <div class="redcolor"></div>
+            <div class="redcolor1"></div>
+        </div>
+       
+    </div>
+
+<style>
+
+div {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    border: 1% solid black;
+    
+
+}
+
+.container{
+    width: 100%;
+    height: auto;
+
+}
+.redcolor{
+    background-color: red;
+
+}
+
+.redcolor1{
+    background-color: red;
+    border: 1px solid black;
+}
+
+
+.bluecolor{
+    background-color: rgb(104, 192, 235);
+}
+
+.greencolor{
+    background-color: rgb(154, 237, 154);
+}
+
+.yellowcolor{
+    background-color: yellow;
+}
+
+
+
+
+
+
+    
+</body>
+</html>
